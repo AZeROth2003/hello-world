@@ -10,4 +10,3 @@ Yo, I know what I need to do now lol
 
 23:02 I create a new branch, then edit README.md
 
-23:19 I create new branch "update_readme"
