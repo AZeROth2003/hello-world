@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 I lost my mind ...
 
 Yo, I know what I need to do now lol
+
+23:02 I create a new branch, then edit README.md
